@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <windows.h>
+#include "SystemSetting.h"
+
 
 int main (int argc, char *argv[]){
 
